@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225">
+  <rect width="400" height="225" fill="#f5ede0"/>
+  <rect x="150" y="60" width="100" height="80" rx="8" fill="#d97706" opacity="0.25"/>
+  <text x="200" y="165" font-family="Georgia,serif" font-size="18" font-weight="bold" fill="#78350f" text-anchor="middle">TIKS News</text>
+  <text x="200" y="183" font-family="Arial,sans-serif" font-size="10" fill="#a0522d" text-anchor="middle">Berita Perfilman Indonesia</text>
+</svg>

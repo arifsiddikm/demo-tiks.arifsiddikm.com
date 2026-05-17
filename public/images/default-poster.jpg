@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300">
+  <rect width="200" height="300" fill="#f5ede0"/>
+  <rect x="60" y="90" width="80" height="80" rx="8" fill="#d97706" opacity="0.3"/>
+  <polygon points="85,110 85,150 125,130" fill="#78350f" opacity="0.5"/>
+  <text x="100" y="210" font-family="Georgia,serif" font-size="13" font-weight="bold" fill="#78350f" text-anchor="middle">TIKS</text>
+  <text x="100" y="228" font-family="Arial,sans-serif" font-size="9" fill="#a0522d" text-anchor="middle">Poster tidak tersedia</text>
+</svg>
